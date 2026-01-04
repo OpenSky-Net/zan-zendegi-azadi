@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zan_Zendegi_Azadi_logo.svg/1200px-Zan_Zendegi_Azadi_logo.svg.png" width="180">
+<img src="banner.jpg" width="100%">
 
-# زن، زندگی، آزادی
+# 🕊️ زن، زندگی، آزادی ✌️
 
 ### برای مردم شجاع ایران که هرگز تسلیم نشدند
 
