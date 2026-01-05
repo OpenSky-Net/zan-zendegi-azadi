@@ -7,7 +7,6 @@
 ### Free & Open Proxy Subscription Service
 
 [![Update Status](https://img.shields.io/badge/updates-every%2030s-brightgreen?style=for-the-badge)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![Proxies](https://img.shields.io/badge/proxies-50+-purple?style=for-the-badge)](#)
 
 **Reliable V2Ray/Xray proxy configurations, automatically tested and updated every 30 seconds.**
@@ -133,10 +132,6 @@ Yes! Submit issues or pull requests on GitHub.
 </details>
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
