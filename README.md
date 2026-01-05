@@ -1,103 +1,158 @@
 <div align="center">
 
-# 🕊️ زن، زندگی، آزادی
+<img src="banner.jpg" width="100%" alt="زن زندگی آزادی">
 
-### اینترنت آزاد برای مردم ایران
+# 🕊️ پروژه آزادی
 
-[![Auto Update](https://img.shields.io/badge/آپدیت-هر%20۳۰%20دقیقه-brightgreen?style=for-the-badge)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
-[![Working](https://img.shields.io/badge/وضعیت-فعال-success?style=for-the-badge)]()
-[![Proxies](https://img.shields.io/badge/پراکسی-50+-blue?style=for-the-badge)]()
+### دسترسی آزاد به اینترنت برای همه ایرانیان
 
 ---
 
-<img src="banner.jpg" width="600" alt="Woman Life Freedom">
-
----
-
-## 🔗 لینک اشتراک
+[![وضعیت](https://img.shields.io/badge/✅_وضعیت-فعال-success?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
+[![آپدیت](https://img.shields.io/badge/🔄_آپدیت-هر_۳۰_دقیقه-blue?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
+[![پراکسی](https://img.shields.io/badge/🌐_پراکسی-50+-purple?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
 
 </div>
 
-### 📋 کپی کنید:
+---
+
+## 📌 لینک اشتراک
+
+لینک زیر را کپی کنید و در اپلیکیشن خود وارد کنید:
 
 ```
 https://raw.githubusercontent.com/OpenSky-Net/zan-zendegi-azadi/main/sub_base64.txt
 ```
 
----
-
-## 📱 نصب روی اندروید
-
-### v2rayNG (پیشنهادی):
-
-1. **[دانلود v2rayNG](https://github.com/2dust/v2rayNG/releases)** از GitHub
-2. نصب کنید و باز کنید
-3. از منو **☰** بزنید → **Subscription group settings**
-4. روی **➕** بزنید
-5. لینک بالا را Paste کنید → **✓**
-6. برگردید و **🔄 Update subscription** بزنید
-7. یک سرور انتخاب کنید و **▶️** بزنید
+> ⚡ **نکته:** این لینک هر ۳۰ دقیقه به‌روزرسانی می‌شود. نیازی به تغییر لینک نیست!
 
 ---
 
-## 📱 نصب روی آیفون
+## 📱 راهنمای نصب
 
-### Shadowrocket:
+<details>
+<summary><b>🤖 اندروید (کلیک کنید)</b></summary>
 
-1. **[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)** از App Store
-2. روی **➕** بزنید → **Type: Subscribe**
-3. لینک را Paste کنید → **Done**
-4. اولین سرور را انتخاب و روشن کنید
+### اپلیکیشن v2rayNG
 
-### Streisand:
+**مرحله ۱:** نصب اپلیکیشن
+- از [این لینک](https://github.com/2dust/v2rayNG/releases) دانلود کنید
+- یا در کافه‌بازار جستجو کنید: `v2rayNG`
 
-1. **[Streisand](https://apps.apple.com/app/streisand/id6450534064)** (رایگان)
-2. **➕** → **Import from URL**
-3. لینک را Paste کنید
+**مرحله ۲:** افزودن لینک اشتراک
+1. اپلیکیشن را باز کنید
+2. روی **☰** (سه خط بالا سمت چپ) بزنید
+3. **Subscription group setting** را انتخاب کنید
+4. روی **+** بزنید
+5. در قسمت **URL** لینک اشتراک را Paste کنید
+6. روی **✓** بزنید
+
+**مرحله ۳:** اتصال
+1. به صفحه اصلی برگردید
+2. روی **⟳** (بروزرسانی) بزنید
+3. یکی از سرورها را انتخاب کنید
+4. روی دکمه **▶** بزنید
+
+✅ **تمام!** حالا متصل هستید.
+
+</details>
+
+<details>
+<summary><b>🍎 آیفون (کلیک کنید)</b></summary>
+
+### اپلیکیشن Shadowrocket (پولی)
+
+1. از App Store نصب کنید: [Shadowrocket](https://apps.apple.com/app/id932747118)
+2. روی **+** بزنید
+3. **Type** را روی **Subscribe** بگذارید
+4. در **URL** لینک اشتراک را Paste کنید
+5. **Done** را بزنید
+6. سرور مورد نظر را انتخاب و روشن کنید
+
+### اپلیکیشن Streisand (رایگان)
+
+1. از App Store نصب کنید: [Streisand](https://apps.apple.com/app/id6450534064)
+2. **+** → **Add from URL**
+3. لینک اشتراک را Paste کنید
+4. سرور را انتخاب و متصل شوید
+
+</details>
+
+<details>
+<summary><b>💻 ویندوز (کلیک کنید)</b></summary>
+
+### برنامه v2rayN
+
+**مرحله ۱:** دانلود
+- از [این لینک](https://github.com/2dust/v2rayN/releases) فایل `v2rayN-windows-64-With-Core.zip` را دانلود کنید
+
+**مرحله ۲:** نصب
+- فایل ZIP را Extract کنید
+- `v2rayN.exe` را اجرا کنید
+
+**مرحله ۳:** افزودن لینک
+1. از منوی **Subscription** گزینه **Subscription settings** را انتخاب کنید
+2. روی **Add** کلیک کنید
+3. در **Address** لینک اشتراک را Paste کنید
+4. **Confirm** را بزنید
+
+**مرحله ۴:** اتصال
+1. از منوی **Subscription** گزینه **Update subscription** را بزنید
+2. از لیست یک سرور انتخاب کنید
+3. راست‌کلیک → **Set as active server**
+4. پایین صفحه دکمه اتصال را بزنید
+
+</details>
 
 ---
 
-## 💻 نصب روی ویندوز
+## ⚡ ویژگی‌های سرویس
 
-### v2rayN:
-
-1. **[دانلود v2rayN](https://github.com/2dust/v2rayN/releases)**
-2. Extract کنید و اجرا کنید
-3. **Subscription** → **Add**
-4. لینک را Paste کنید → **OK**
-5. **Update subscription** بزنید
-6. سرور انتخاب کنید → **Connect**
-
----
-
-## ⚡ ویژگی‌ها
-
-| ویژگی | توضیح |
-|-------|-------|
-| 🔄 **آپدیت خودکار** | هر ۳۰ دقیقه سرورها چک و آپدیت میشن |
-| 🔒 **امنیت کامل** | VLESS + TLS + WebSocket |
-| ☁️ **Cloudflare CDN** | سرعت بالا و پایداری |
-| ♾️ **ترافیک نامحدود** | بدون محدودیت |
-| 🚀 **سرور آلمان** | پینگ پایین |
+| ویژگی | توضیحات |
+|:---:|:---|
+| 🔄 | **بروزرسانی خودکار** - سرورها هر ۳۰ دقیقه چک و بروز می‌شوند |
+| 🔒 | **امنیت کامل** - رمزنگاری پیشرفته TLS |
+| ☁️ | **سرعت بالا** - استفاده از شبکه Cloudflare |
+| ♾️ | **بدون محدودیت** - ترافیک نامحدود |
+| 🌍 | **سرور اروپا** - کیفیت و پایداری بالا |
 
 ---
 
-## ❓ مشکل دارید؟
+## ❓ سوالات متداول
 
-1. **آپدیت کنید** - Subscription را Refresh کنید
-2. **سرور عوض کنید** - یک سرور دیگه انتخاب کنید
-3. **اپ آپدیت کنید** - آخرین نسخه نصب کنید
+<details>
+<summary>کار نمی‌کند، چه کار کنم؟</summary>
+
+1. **لیست را بروزرسانی کنید** - روی دکمه Refresh/Update بزنید
+2. **سرور دیگری امتحان کنید** - ممکن است یک سرور خاص مشکل داشته باشد
+3. **اپلیکیشن را بروزرسانی کنید** - نسخه جدیدتر نصب کنید
+
+</details>
+
+<details>
+<summary>آیا امن است؟</summary>
+
+✅ **بله!** تمام ترافیک شما رمزنگاری شده و از طریق Cloudflare عبور می‌کند.
+
+</details>
+
+<details>
+<summary>رایگان است؟</summary>
+
+✅ **بله!** این سرویس کاملاً رایگان است و برای همیشه رایگان خواهد ماند.
+
+</details>
 
 ---
 
 <div align="center">
 
-### 🕊️ برای آزادی، برای زندگی
+## 🕊️ برای آزادی، برای زندگی
 
-*این سرویس رایگان است و برای همیشه رایگان خواهد ماند*
+*این پروژه با عشق برای مردم ایران ساخته شده است*
 
 ---
 
-**ساخته شده با ❤️ برای مردم ایران**
+<sub>ساخته شده با ❤️ | آخرین بروزرسانی: خودکار هر ۳۰ دقیقه</sub>
 
 </div>
