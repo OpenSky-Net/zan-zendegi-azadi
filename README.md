@@ -8,9 +8,9 @@
 
 ---
 
-[![وضعیت](https://img.shields.io/badge/✅_وضعیت-فعال-success?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
-[![آپدیت](https://img.shields.io/badge/🔄_آپدیت-هر_۳۰_دقیقه-blue?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
-[![پراکسی](https://img.shields.io/badge/🌐_پراکسی-50+-purple?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
+[![Status](https://img.shields.io/badge/✅_Status-Active-success?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
+[![Update](https://img.shields.io/badge/🔄_Update-Every_30_min-blue?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
+[![Proxies](https://img.shields.io/badge/🌐_Proxies-50+-purple?style=for-the-badge&labelColor=2d333b)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
 
 </div>
 
