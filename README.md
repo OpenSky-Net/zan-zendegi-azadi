@@ -1,121 +1,151 @@
 <div align="center">
 
-<img src="banner.jpg" width="100%">
+<img src="banner.jpg" alt="Woman Life Freedom" width="100%">
 
-# 🕊️ زن، زندگی، آزادی ✌️
+# 🕊️ Woman Life Freedom
 
-### برای مردم شجاع ایران که هرگز تسلیم نشدند
+### Free & Open Proxy Subscription Service
 
----
+[![Update Status](https://img.shields.io/badge/updates-every%2030s-brightgreen?style=for-the-badge)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
+[![Proxies](https://img.shields.io/badge/proxies-50+-purple?style=for-the-badge)](#)
 
-> *«تا وقتی که صدای ما شنیده نشود، هیچ دیواری ما را متوقف نخواهد کرد»*
+**Reliable V2Ray/Xray proxy configurations, automatically tested and updated every 30 seconds.**
+
+[Quick Start](#-quick-start) • [Supported Clients](#-supported-clients) • [How It Works](#-how-it-works) • [FAQ](#-faq)
 
 ---
 
 </div>
 
-## 📥 لینک اشتراک رایگان
-
-برای دسترسی آزاد به اینترنت، این لینک را کپی کنید:
+## 🔗 Subscription Link
 
 ```
-https://anonymous87ew-blip.github.io/zan-zendegi-azadi/sub_base64.txt
+https://opensky-net.github.io/zan-zendegi-azadi/sub_base64.txt
 ```
+
+> **Copy this link and add it to your V2Ray client. Proxies are automatically refreshed.**
+
+---
+
+## 🚀 Quick Start
+
+### Android (v2rayNG)
+
+1. Download [v2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang) from Play Store
+2. Tap **☰** → **Subscription group setting** → **+**
+3. Paste the subscription link → **Save**
+4. Tap **↻** to update → Select a server → **▶** Connect
+
+### iOS (Shadowrocket)
+
+1. Download [Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118) from App Store
+2. Tap **+** → Select **Subscribe**
+3. Paste the subscription link → **Done**
+4. Pull down to refresh → Tap a server to connect
+
+### Windows (v2rayN)
+
+1. Download [v2rayN](https://github.com/2dust/v2rayN/releases) from GitHub
+2. Go to **Subscription** → **Subscription group setting** → **Add**
+3. Paste the subscription link → **OK**
+4. **Subscription** → **Update subscription** → Right-click a server → **Set as active**
+
+### macOS (V2rayU)
+
+1. Download [V2rayU](https://github.com/yanue/V2rayU/releases) from GitHub
+2. Click menu bar icon → **Subscription** → **Add**
+3. Paste the subscription link → **Update**
+4. Select a server from the list
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔄 **Auto-Updated** | Proxies tested and refreshed every 30 seconds |
+| ⚡ **Speed Optimized** | Only fastest servers (<300ms latency) included |
+| 🧪 **Connection Tested** | TCP + TLS handshake verification |
+| 🔒 **Anonymous** | No logs, no tracking, no registration |
+| 📱 **Cross-Platform** | Works on Android, iOS, Windows, macOS, Linux |
+| 🌐 **Multiple Protocols** | VMess and VLESS supported |
+
+---
+
+## ⚙️ How It Works
+
+```
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│  Proxy Sources  │────▶│   Test & Filter │────▶│  GitHub Pages   │
+│   (15+ feeds)   │     │  (TCP + TLS)    │     │  (Your client)  │
+└─────────────────┘     └─────────────────┘     └─────────────────┘
+        │                       │                       │
+        ▼                       ▼                       ▼
+   30,000+ configs        Top 50 fastest         Auto-sync every
+   collected daily        proxies selected       time you refresh
+```
+
+1. **Aggregation** — Collects proxy configs from 15+ trusted sources
+2. **Testing** — Verifies each proxy with TCP connection + TLS handshake
+3. **Ranking** — Sorts by latency, keeps only the fastest 50
+4. **Distribution** — Publishes to GitHub Pages for instant access
+
+---
+
+## 📊 Proxy Sources
+
+This project aggregates from multiple community-maintained proxy lists:
+
+- [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator)
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)
+- [freefq/free](https://github.com/freefq/free)
+- [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
+- [yebekhe/TVC](https://github.com/yebekhe/TVC)
+- And 10+ more sources...
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>How often are proxies updated?</b></summary>
+
+Every 30 seconds. Your client will fetch the latest list when you refresh subscriptions.
+</details>
+
+<details>
+<summary><b>Why do some proxies not work?</b></summary>
+
+Free proxies can become blocked or overloaded. Refresh your subscription to get new working servers.
+</details>
+
+<details>
+<summary><b>Is this service free?</b></summary>
+
+Yes, completely free and open source. No registration or payment required.
+</details>
+
+<details>
+<summary><b>Can I contribute?</b></summary>
+
+Yes! Submit issues or pull requests on GitHub.
+</details>
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
 
 <div align="center">
 
-**این سرویس کاملاً رایگان است و توسط ایرانیان خارج از کشور ارائه می‌شود**
+**🕊️ For freedom. For life. For the future.**
 
-*ما با شماییم* 🤍
+*This project is dedicated to those fighting for their fundamental rights.*
 
-</div>
-
----
-
-## 📱 راهنمای نصب
-
-<details>
-<summary><b>اندروید (v2rayNG)</b></summary>
-
-<br>
-
-1. برنامه **v2rayNG** را از [گوگل پلی](https://play.google.com/store/apps/details?id=com.v2ray.ang) یا [GitHub](https://github.com/2dust/v2rayNG/releases) دانلود کنید
-
-2. برنامه را باز کنید و از منو ☰ گزینه **Subscription group setting** را انتخاب کنید
-
-3. روی دکمه **+** بزنید
-
-4. لینک بالا را در قسمت **URL** بچسبانید
-
-5. تأیید کنید و از منوی اصلی **Update subscription** را بزنید
-
-6. یکی از سرورها را انتخاب کنید و **Connect** بزنید
-
-**تمام!** حالا آزادانه از اینترنت استفاده کنید.
-
-</details>
-
-<details>
-<summary><b>آیفون (V2Box / Streisand)</b></summary>
-
-<br>
-
-1. یکی از برنامه‌های زیر را نصب کنید:
-   - [V2Box](https://apps.apple.com/app/v2box-v2ray-client/id6446814690)
-   - [Streisand](https://apps.apple.com/app/streisand/id6450534064)
-
-2. روی **+** یا **Import** بزنید
-
-3. گزینه **Import from URL** یا **Add Subscription** را انتخاب کنید
-
-4. لینک بالا را بچسبانید
-
-5. سرور مورد نظر را انتخاب و وصل شوید
-
-</details>
-
-<details>
-<summary><b>ویندوز / مک (v2rayN / Qv2ray)</b></summary>
-
-<br>
-
-1. برنامه [v2rayN](https://github.com/2dust/v2rayN/releases) را دانلود کنید
-
-2. از منو **Subscription setting** را باز کنید
-
-3. **Add** بزنید و لینک بالا را وارد کنید
-
-4. **Update subscription** را بزنید
-
-5. سرور انتخاب کنید و وصل شوید
-
-</details>
-
----
-
-## ❓ نکات مهم
-
-- **رایگان و بدون ثبت‌نام** - نیازی به ایمیل یا شماره تلفن نیست
-- **آپدیت خودکار** - لیست سرورها مرتباً به‌روز می‌شود
-- **اگر وصل نشد** - ابتدا subscription را آپدیت کنید، سپس سرور دیگری امتحان کنید
-- **به اشتراک بگذارید** - این لینک را به دوستان و خانواده‌تان بدهید
-
----
-
-<div align="center">
-
-### ما ایستاده‌ایم کنار شما
-
-*هر دیواری که بسازند، راهی برای عبور پیدا می‌کنیم*
-
----
-
-**زن** ⟡ **زندگی** ⟡ **آزادی**
-
-🤍
-
----
-
-<sub>این پروژه متعلق به مردم ایران است</sub>
+[![Star](https://img.shields.io/github/stars/OpenSky-Net/zan-zendegi-azadi?style=social)](https://github.com/OpenSky-Net/zan-zendegi-azadi)
 
 </div>
