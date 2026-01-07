@@ -1,4 +1,4 @@
-# Updated: 2026-01-07 08:12:55
+# Updated: 2026-01-07 08:42:57
 # Channel: @brayeazadii
 
 vless://b3c0c46f-d41b-49c2-acff-9f4140d49a6c@search-transform-including-attract.trycloudflare.com:443?security=tls&encryption=none&type=ws&path=/ws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231%20%5BCF443%5D
