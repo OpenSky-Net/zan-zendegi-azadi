@@ -1,7 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-01-27 19:38:46
+# Updated: 2026-01-27 19:49:37
 # Configs: 3
 
-trojan://DANA@solutions-irc-respected-happens.trycloudflare.com:443?security=tls&type=ws&host=solutions-irc-respected-happens.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@hood-heath-independent-futures.trycloudflare.com:443?security=tls&type=ws&host=hood-heath-independent-futures.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@spatial-precisely-licensed-performs.trycloudflare.com:443?security=tls&type=ws&host=spatial-precisely-licensed-performs.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@navigator-remote-parents-very.trycloudflare.com:443?security=tls&type=ws&host=navigator-remote-parents-very.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@dice-screenshots-rfc-presents.trycloudflare.com:443?security=tls&type=ws&host=dice-screenshots-rfc-presents.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@helena-organizer-denver-backing.trycloudflare.com:443?security=tls&type=ws&host=helena-organizer-denver-backing.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
