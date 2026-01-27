@@ -1,5 +1,6 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-01-27 21:31:46
-# Configs: 1
+# Updated: 2026-01-27 22:26:39
+# Configs: 2
 
-trojan://DANA@accommodate-concerts-disclosure-hereby.trycloudflare.com:443?security=tls&type=ws&host=accommodate-concerts-disclosure-hereby.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@accurately-cultures-habits-vegetation.trycloudflare.com:443?security=tls&type=ws&host=accurately-cultures-habits-vegetation.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@clerk-beverly-outdoor-merchants.trycloudflare.com:443?security=tls&type=ws&host=clerk-beverly-outdoor-merchants.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
