@@ -1,10 +1,10 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-01-27 15:59:29
+# Updated: 2026-01-27 16:04:38
 # Telegram: @brayeazadii
 # Configs: 5
 
-trojan://DANA@briefly-likelihood-faced-volumes.trycloudflare.com:443?security=tls&type=ws&host=briefly-likelihood-faced-volumes.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@option-planning-agent-flash.trycloudflare.com:443?security=tls&type=ws&host=option-planning-agent-flash.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@lover-consists-mega-fig.trycloudflare.com:443?security=tls&type=ws&host=lover-consists-mega-fig.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
-trojan://DANA@publication-pros-src-how.trycloudflare.com:443?security=tls&type=ws&host=publication-pros-src-how.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
-trojan://DANA@trader-proprietary-highlights-answers.trycloudflare.com:443?security=tls&type=ws&host=trader-proprietary-highlights-answers.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
+trojan://DANA@steam-drop-modified-eye.trycloudflare.com:443?security=tls&type=ws&host=steam-drop-modified-eye.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@room-bargains-parking-inches.trycloudflare.com:443?security=tls&type=ws&host=room-bargains-parking-inches.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@scratch-researchers-season-performed.trycloudflare.com:443?security=tls&type=ws&host=scratch-researchers-season-performed.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@ahead-lil-tvs-conservative.trycloudflare.com:443?security=tls&type=ws&host=ahead-lil-tvs-conservative.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
+trojan://DANA@extend-officer-followed-lawn.trycloudflare.com:443?security=tls&type=ws&host=extend-officer-followed-lawn.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
