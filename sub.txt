@@ -1,7 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-01-27 19:49:37
+# Updated: 2026-01-27 20:21:42
 # Configs: 3
 
-trojan://DANA@navigator-remote-parents-very.trycloudflare.com:443?security=tls&type=ws&host=navigator-remote-parents-very.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@dice-screenshots-rfc-presents.trycloudflare.com:443?security=tls&type=ws&host=dice-screenshots-rfc-presents.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@helena-organizer-denver-backing.trycloudflare.com:443?security=tls&type=ws&host=helena-organizer-denver-backing.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@lets-reading-performs-cooperative.trycloudflare.com:443?security=tls&type=ws&host=lets-reading-performs-cooperative.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@jerusalem-bookstore-dental-lawyer.trycloudflare.com:443?security=tls&type=ws&host=jerusalem-bookstore-dental-lawyer.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@tactics-dpi-impaired-listening.trycloudflare.com:443?security=tls&type=ws&host=tactics-dpi-impaired-listening.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
