@@ -1,9 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-01-27 17:30:22
-# Configs: 5
+# Updated: 2026-01-27 17:35:30
+# Configs: 3
 
-trojan://DANA@cameras-valuable-troy-sydney.trycloudflare.com:443?security=tls&type=ws&host=cameras-valuable-troy-sydney.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@cameras-valuable-troy-sydney.trycloudflare.com:443?security=tls&type=ws&host=cameras-valuable-troy-sydney.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@cameras-valuable-troy-sydney.trycloudflare.com:443?security=tls&type=ws&host=cameras-valuable-troy-sydney.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
-trojan://DANA@cameras-valuable-troy-sydney.trycloudflare.com:443?security=tls&type=ws&host=cameras-valuable-troy-sydney.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
-trojan://DANA@cameras-valuable-troy-sydney.trycloudflare.com:443?security=tls&type=ws&host=cameras-valuable-troy-sydney.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
+trojan://DANA@zshops-fourth-wins-importance.trycloudflare.com:443?security=tls&type=ws&host=zshops-fourth-wins-importance.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@dinner-set-colleague-broken.trycloudflare.com:443?security=tls&type=ws&host=dinner-set-colleague-broken.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@build-dept-location-sessions.trycloudflare.com:443?security=tls&type=ws&host=build-dept-location-sessions.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
