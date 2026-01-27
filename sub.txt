@@ -1,10 +1,10 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-01-27 15:53:55
+# Updated: 2026-01-27 15:59:29
 # Telegram: @brayeazadii
 # Configs: 5
 
-trojan://DANA@losing-consequences-herbal-charge.trycloudflare.com:443?security=tls&type=ws&host=losing-consequences-herbal-charge.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@gloves-premier-knights-recipients.trycloudflare.com:443?security=tls&type=ws&host=gloves-premier-knights-recipients.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@enabled-sandy-vip-organize.trycloudflare.com:443?security=tls&type=ws&host=enabled-sandy-vip-organize.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
-trojan://DANA@acquisitions-statistics-pos-tire.trycloudflare.com:443?security=tls&type=ws&host=acquisitions-statistics-pos-tire.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
-trojan://DANA@veteran-calgary-electoral-gage.trycloudflare.com:443?security=tls&type=ws&host=veteran-calgary-electoral-gage.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
+trojan://DANA@briefly-likelihood-faced-volumes.trycloudflare.com:443?security=tls&type=ws&host=briefly-likelihood-faced-volumes.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@option-planning-agent-flash.trycloudflare.com:443?security=tls&type=ws&host=option-planning-agent-flash.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@lover-consists-mega-fig.trycloudflare.com:443?security=tls&type=ws&host=lover-consists-mega-fig.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@publication-pros-src-how.trycloudflare.com:443?security=tls&type=ws&host=publication-pros-src-how.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
+trojan://DANA@trader-proprietary-highlights-answers.trycloudflare.com:443?security=tls&type=ws&host=trader-proprietary-highlights-answers.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
