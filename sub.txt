@@ -1,8 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-01-31 22:58:14
-# Configs: 4
+# Updated: 2026-01-31 23:16:57
+# Configs: 3
 
-trojan://DANA@pads-talent-tubes-perceived.trycloudflare.com:443?security=tls&type=ws&host=pads-talent-tubes-perceived.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@nightlife-adrian-something-respiratory.trycloudflare.com:443?security=tls&type=ws&host=nightlife-adrian-something-respiratory.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@blackberry-trust-arrange-displayed.trycloudflare.com:443?security=tls&type=ws&host=blackberry-trust-arrange-displayed.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
-trojan://DANA@scholars-roland-acknowledged-greg.trycloudflare.com:443?security=tls&type=ws&host=scholars-roland-acknowledged-greg.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
+trojan://DANA@smallest-versus-customers-art.trycloudflare.com:443?security=tls&type=ws&host=smallest-versus-customers-art.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@eur-laboratories-reader-aerial.trycloudflare.com:443?security=tls&type=ws&host=eur-laboratories-reader-aerial.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@strange-reggae-pilot-harmony.trycloudflare.com:443?security=tls&type=ws&host=strange-reggae-pilot-harmony.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
