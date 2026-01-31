@@ -1,7 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-01-31 19:43:52
+# Updated: 2026-01-31 19:47:42
 # Configs: 3
 
-trojan://DANA@affordable-triple-dollar-facility.trycloudflare.com:443?security=tls&type=ws&host=affordable-triple-dollar-facility.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@oem-bet-precious-revision.trycloudflare.com:443?security=tls&type=ws&host=oem-bet-precious-revision.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@telecom-disciplinary-disabilities-sells.trycloudflare.com:443?security=tls&type=ws&host=telecom-disciplinary-disabilities-sells.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@used-mix-immigrants-played.trycloudflare.com:443?security=tls&type=ws&host=used-mix-immigrants-played.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@brief-prozac-observations-sheriff.trycloudflare.com:443?security=tls&type=ws&host=brief-prozac-observations-sheriff.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@accepts-presents-eminem-graduated.trycloudflare.com:443?security=tls&type=ws&host=accepts-presents-eminem-graduated.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
