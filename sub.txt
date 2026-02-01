@@ -1,7 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-01 01:30:11
+# Updated: 2026-02-01 01:40:45
 # Configs: 3
 
-trojan://DANA@prospects-promising-echo-ipaq.trycloudflare.com:443?security=tls&type=ws&host=prospects-promising-echo-ipaq.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@ecological-liver-adventures-ide.trycloudflare.com:443?security=tls&type=ws&host=ecological-liver-adventures-ide.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@gtk-lloyd-immunology-turn.trycloudflare.com:443?security=tls&type=ws&host=gtk-lloyd-immunology-turn.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@applying-cabinet-literacy-measure.trycloudflare.com:443?security=none&type=ws&host=applying-cabinet-literacy-measure.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@cafe-officials-warranties-engineering.trycloudflare.com:443?security=none&type=ws&host=cafe-officials-warranties-engineering.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@differential-juan-defined-cake.trycloudflare.com:443?security=none&type=ws&host=differential-juan-defined-cake.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
