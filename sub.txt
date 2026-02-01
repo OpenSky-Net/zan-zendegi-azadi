@@ -1,8 +1,4 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-01 02:47:00
+# Updated: 2026-02-01 02:54:52
 
-trojan://DANA@adsl-authors-crawford-highlights.trycloudflare.com:443?security=tls&type=ws&host=adsl-authors-crawford-highlights.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@dem-exist-improved-selected.trycloudflare.com:443?security=tls&type=ws&host=dem-exist-improved-selected.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@ton-lunch-synopsis-currently.trycloudflare.com:443?security=tls&type=ws&host=ton-lunch-synopsis-currently.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
-trojan://DANA@drawings-industrial-formed-laboratories.trycloudflare.com:443?security=tls&type=ws&host=drawings-industrial-formed-laboratories.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
-trojan://DANA@detective-drill-weekends-environmental.trycloudflare.com:443?security=tls&type=ws&host=detective-drill-weekends-environmental.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
+trojan://DANA@closes-intention-compare-buffer.trycloudflare.com:443?security=tls&type=ws&host=closes-intention-compare-buffer.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
