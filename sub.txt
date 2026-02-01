@@ -1,9 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-01 00:24:36
-# Configs: 5
+# Updated: 2026-02-01 01:07:09
+# Configs: 3
 
-trojan://DANA@generator-established-das-insulation.trycloudflare.com:443?security=tls&type=ws&host=generator-established-das-insulation.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@generator-established-das-insulation.trycloudflare.com:443?security=tls&type=ws&host=generator-established-das-insulation.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@generator-established-das-insulation.trycloudflare.com:443?security=tls&type=ws&host=generator-established-das-insulation.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
-trojan://DANA@generator-established-das-insulation.trycloudflare.com:443?security=tls&type=ws&host=generator-established-das-insulation.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
-trojan://DANA@generator-established-das-insulation.trycloudflare.com:443?security=tls&type=ws&host=generator-established-das-insulation.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
+trojan://DANA@rpg-knee-calculations-believes.trycloudflare.com:443?security=tls&type=ws&host=rpg-knee-calculations-believes.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@similar-lighter-discharge-acquisition.trycloudflare.com:443?security=tls&type=ws&host=similar-lighter-discharge-acquisition.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@diameter-missing-fly-detective.trycloudflare.com:443?security=tls&type=ws&host=diameter-missing-fly-detective.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
