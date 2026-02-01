@@ -1,5 +1,5 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-01 08:56:30
+# Updated: 2026-02-01 11:56:36
 
 trojan://DANA@closes-intention-compare-buffer.trycloudflare.com:443?security=tls&type=ws&host=closes-intention-compare-buffer.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
 trojan://DANA@timothy-revenues-shower-screw.trycloudflare.com:443?security=tls&type=ws&host=timothy-revenues-shower-screw.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
@@ -8,3 +8,4 @@ trojan://DANA@serum-inflation-advisory-wizard.trycloudflare.com:443?security=tls
 trojan://DANA@journey-charger-customise-louisiana.trycloudflare.com:443?security=tls&type=ws&host=journey-charger-customise-louisiana.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
 trojan://DANA@selecting-picked-recorded-fossil.trycloudflare.com:443?security=tls&type=ws&host=selecting-picked-recorded-fossil.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%236
 trojan://DANA@left-files-aside-letters.trycloudflare.com:443?security=tls&type=ws&host=left-files-aside-letters.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%237
+trojan://DANA@electric-jade-utils-translator.trycloudflare.com:443?security=tls&type=ws&host=electric-jade-utils-translator.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%238
