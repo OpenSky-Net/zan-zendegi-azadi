@@ -1,7 +1,8 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-02 21:39:41
+# Updated: 2026-02-02 21:40:02
 
 trojan://DANA@certain-christmas-jeff-uri.trycloudflare.com:443?security=tls&type=ws&host=certain-christmas-jeff-uri.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
 trojan://DANA@attempting-open-activities-mart.trycloudflare.com:443?security=tls&type=ws&host=attempting-open-activities-mart.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
 trojan://DANA@craps-seen-manufacturer-twisted.trycloudflare.com:443?security=tls&type=ws&host=craps-seen-manufacturer-twisted.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
 trojan://DANA@eden-tonight-butter-reconstruction.trycloudflare.com:443?security=tls&type=ws&host=eden-tonight-butter-reconstruction.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
+trojan://DANA@reed-workstation-informal-translated.trycloudflare.com:443?security=tls&type=ws&host=reed-workstation-informal-translated.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
