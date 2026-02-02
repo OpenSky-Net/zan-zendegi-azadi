@@ -1,7 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-03 00:43:32
+# Updated: 2026-02-03 00:58:36
 # Configs: 3
 
-trojan://DANA@specials-burke-recipes-accounts.trycloudflare.com:443?security=none&type=ws&host=specials-burke-recipes-accounts.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@seafood-updated-surveys-institutions.trycloudflare.com:443?security=none&type=ws&host=seafood-updated-surveys-institutions.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@totals-productions-discussing-blowing.trycloudflare.com:443?security=none&type=ws&host=totals-productions-discussing-blowing.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@erp-owner-fallen-maritime.trycloudflare.com:443?security=none&type=ws&host=erp-owner-fallen-maritime.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@surgical-formerly-ride-surrounded.trycloudflare.com:443?security=none&type=ws&host=surgical-formerly-ride-surrounded.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@units-tackle-constant-outcome.trycloudflare.com:443?security=none&type=ws&host=units-tackle-constant-outcome.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
