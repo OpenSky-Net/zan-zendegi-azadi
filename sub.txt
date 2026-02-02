@@ -1,7 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-02 22:35:37
+# Updated: 2026-02-03 00:00:01
 # Configs: 3
 
-trojan://DANA@adoption-promoting-governor-diet.trycloudflare.com:443?security=none&type=ws&host=adoption-promoting-governor-diet.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@provide-surprise-similar-television.trycloudflare.com:443?security=none&type=ws&host=provide-surprise-similar-television.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@concentrate-midi-spectacular-coated.trycloudflare.com:443?security=none&type=ws&host=concentrate-midi-spectacular-coated.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@cell-guitars-producer-tim.trycloudflare.com:443?security=none&type=ws&host=cell-guitars-producer-tim.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@boundaries-yourself-height-bodies.trycloudflare.com:443?security=none&type=ws&host=boundaries-yourself-height-bodies.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@ministers-reach-scout-pizza.trycloudflare.com:443?security=none&type=ws&host=ministers-reach-scout-pizza.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
