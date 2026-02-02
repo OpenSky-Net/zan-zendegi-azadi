@@ -1,7 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-03 00:19:07
+# Updated: 2026-02-03 00:25:30
 # Configs: 3
 
-trojan://DANA@brief-birth-singer-exists.trycloudflare.com:443?security=none&type=ws&host=brief-birth-singer-exists.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@twice-api-thunder-propose.trycloudflare.com:443?security=none&type=ws&host=twice-api-thunder-propose.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@combinations-patrick-sign-chat.trycloudflare.com:443?security=none&type=ws&host=combinations-patrick-sign-chat.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@editorials-corporate-candidate-var.trycloudflare.com:443?security=none&type=ws&host=editorials-corporate-candidate-var.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
+trojan://DANA@anonymous-textile-approach-poet.trycloudflare.com:443?security=none&type=ws&host=anonymous-textile-approach-poet.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
+trojan://DANA@slide-bookmarks-bye-victoria.trycloudflare.com:443?security=none&type=ws&host=slide-bookmarks-bye-victoria.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
