@@ -1,7 +1,8 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-03 01:10:33
+# Updated: 2026-02-03 01:10:55
 
 trojan://DANA@license-draw-wiley-marco.trycloudflare.com:443?security=tls&type=ws&host=license-draw-wiley-marco.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
 trojan://DANA@ing-accept-youth-litigation.trycloudflare.com:443?security=tls&type=ws&host=ing-accept-youth-litigation.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
 trojan://DANA@corrected-timer-enclosure-resumes.trycloudflare.com:443?security=tls&type=ws&host=corrected-timer-enclosure-resumes.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
 trojan://DANA@drawing-pursuit-butler-nebraska.trycloudflare.com:443?security=tls&type=ws&host=drawing-pursuit-butler-nebraska.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
+trojan://DANA@equipment-curious-acceptable-jeremy.trycloudflare.com:443?security=tls&type=ws&host=equipment-curious-acceptable-jeremy.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
