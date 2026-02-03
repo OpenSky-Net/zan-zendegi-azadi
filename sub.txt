@@ -1,6 +1,7 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-03 07:12:05
+# Updated: 2026-02-03 07:12:28
 
 trojan://DANA@fill-graphic-shark-interested.trycloudflare.com:443?security=tls&type=ws&host=fill-graphic-shark-interested.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
 trojan://DANA@pale-seek-brands-current.trycloudflare.com:443?security=tls&type=ws&host=pale-seek-brands-current.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
 trojan://DANA@grant-commons-knowing-blank.trycloudflare.com:443?security=tls&type=ws&host=grant-commons-knowing-blank.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
+trojan://DANA@distribution-cafe-empirical-breathing.trycloudflare.com:443?security=tls&type=ws&host=distribution-cafe-empirical-breathing.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
