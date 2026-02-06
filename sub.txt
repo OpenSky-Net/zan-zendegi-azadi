@@ -1,8 +1,9 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-06 17:37:37
-# Active Tunnels: 4
+# Updated: 2026-02-06 17:37:57
+# Active Tunnels: 5
 
 trojan://DANA@cotton-obviously-arthritis-contracts.trycloudflare.com:443?security=tls&type=ws&host=cotton-obviously-arthritis-contracts.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20UNKNOWN%20%231
 trojan://DANA@periodically-explaining-participated-bottle.trycloudflare.com:443?security=tls&type=ws&host=periodically-explaining-participated-bottle.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%232
 trojan://DANA@owned-molecular-facing-gbp.trycloudflare.com:443?security=tls&type=ws&host=owned-molecular-facing-gbp.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%233
 trojan://DANA@respectively-feed-photographers-petersburg.trycloudflare.com:443?security=tls&type=ws&host=respectively-feed-photographers-petersburg.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%234
+trojan://DANA@tracking-injection-but-mistakes.trycloudflare.com:443?security=tls&type=ws&host=tracking-injection-but-mistakes.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%235
