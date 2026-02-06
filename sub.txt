@@ -1,12 +1,5 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-03 12:15:50
+# Updated: 2026-02-06 17:36:46
+# Active Tunnels: 1
 
-trojan://DANA@variable-plymouth-executive-activists.trycloudflare.com:443?security=tls&type=ws&host=variable-plymouth-executive-activists.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%231
-trojan://DANA@hewlett-paying-fitting-recruiting.trycloudflare.com:443?security=tls&type=ws&host=hewlett-paying-fitting-recruiting.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%232
-trojan://DANA@joshua-connecticut-appreciated-gary.trycloudflare.com:443?security=tls&type=ws&host=joshua-connecticut-appreciated-gary.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%233
-trojan://DANA@eden-walnut-little-receivers.trycloudflare.com:443?security=tls&type=ws&host=eden-walnut-little-receivers.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%234
-trojan://DANA@experimental-twenty-shake-fifteen.trycloudflare.com:443?security=tls&type=ws&host=experimental-twenty-shake-fifteen.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%235
-trojan://DANA@opponents-shark-guidance-luck.trycloudflare.com:443?security=tls&type=ws&host=opponents-shark-guidance-luck.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%236
-trojan://DANA@producers-percentage-alan-condition.trycloudflare.com:443?security=tls&type=ws&host=producers-percentage-alan-condition.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%237
-trojan://DANA@scoop-firms-art-switches.trycloudflare.com:443?security=tls&type=ws&host=scoop-firms-art-switches.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%238
-trojan://DANA@cotton-obviously-arthritis-contracts.trycloudflare.com:443?security=tls&type=ws&host=cotton-obviously-arthritis-contracts.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%239
+trojan://DANA@cotton-obviously-arthritis-contracts.trycloudflare.com:443?security=tls&type=ws&host=cotton-obviously-arthritis-contracts.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20UNKNOWN%20%231
