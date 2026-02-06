@@ -1,5 +1,6 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-06 17:36:46
-# Active Tunnels: 1
+# Updated: 2026-02-06 17:36:52
+# Active Tunnels: 2
 
 trojan://DANA@cotton-obviously-arthritis-contracts.trycloudflare.com:443?security=tls&type=ws&host=cotton-obviously-arthritis-contracts.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20UNKNOWN%20%231
+trojan://DANA@periodically-explaining-participated-bottle.trycloudflare.com:443?security=tls&type=ws&host=periodically-explaining-participated-bottle.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%232
