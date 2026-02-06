@@ -1,9 +1,4 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-06 18:20:36
-# Active Tunnels: 5
+# Updated: 2026-02-06 18:57:08
+# Active Tunnels: 0
 
-trojan://DANA@somerset-buses-mating-bracelets.trycloudflare.com:443?security=tls&type=ws&host=somerset-buses-mating-bracelets.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%231
-trojan://DANA@sugar-dover-output-lib.trycloudflare.com:443?security=tls&type=ws&host=sugar-dover-output-lib.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%232
-trojan://DANA@grows-distribute-angel-gates.trycloudflare.com:443?security=tls&type=ws&host=grows-distribute-angel-gates.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%233
-trojan://DANA@prior-binding-mount-stations.trycloudflare.com:443?security=tls&type=ws&host=prior-binding-mount-stations.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%234
-trojan://DANA@qualifying-being-kent-enables.trycloudflare.com:443?security=tls&type=ws&host=qualifying-being-kent-enables.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%235
