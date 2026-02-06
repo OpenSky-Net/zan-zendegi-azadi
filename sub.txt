@@ -1,9 +1,9 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-06 17:57:25
+# Updated: 2026-02-06 17:58:32
 # Active Tunnels: 5
 
-trojan://DANA@restricted-tied-don-nest.trycloudflare.com:443?security=tls&type=ws&host=restricted-tied-don-nest.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%231
-trojan://DANA@licensing-cord-dryer-suppose.trycloudflare.com:443?security=tls&type=ws&host=licensing-cord-dryer-suppose.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%232
-trojan://DANA@obviously-loves-maryland-javascript.trycloudflare.com:443?security=tls&type=ws&host=obviously-loves-maryland-javascript.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%233
-trojan://DANA@prevention-could-show-brush.trycloudflare.com:443?security=tls&type=ws&host=prevention-could-show-brush.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%234
-trojan://DANA@bent-florist-lodge-emerging.trycloudflare.com:443?security=tls&type=ws&host=bent-florist-lodge-emerging.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%235
+trojan://DANA@licensing-cord-dryer-suppose.trycloudflare.com:443?security=tls&type=ws&host=licensing-cord-dryer-suppose.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%231
+trojan://DANA@obviously-loves-maryland-javascript.trycloudflare.com:443?security=tls&type=ws&host=obviously-loves-maryland-javascript.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%232
+trojan://DANA@prevention-could-show-brush.trycloudflare.com:443?security=tls&type=ws&host=prevention-could-show-brush.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%233
+trojan://DANA@bent-florist-lodge-emerging.trycloudflare.com:443?security=tls&type=ws&host=bent-florist-lodge-emerging.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%234
+trojan://DANA@reaching-symbols-refused-frontier.trycloudflare.com:443?security=tls&type=ws&host=reaching-symbols-refused-frontier.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%235
