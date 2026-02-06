@@ -1,9 +1,9 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-06 18:01:52
+# Updated: 2026-02-06 18:03:00
 # Active Tunnels: 5
 
-trojan://DANA@bent-florist-lodge-emerging.trycloudflare.com:443?security=tls&type=ws&host=bent-florist-lodge-emerging.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%231
-trojan://DANA@reaching-symbols-refused-frontier.trycloudflare.com:443?security=tls&type=ws&host=reaching-symbols-refused-frontier.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%232
-trojan://DANA@stations-prospective-flowers-trans.trycloudflare.com:443?security=tls&type=ws&host=stations-prospective-flowers-trans.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%233
-trojan://DANA@securities-greene-legislation-disclaimers.trycloudflare.com:443?security=tls&type=ws&host=securities-greene-legislation-disclaimers.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%234
-trojan://DANA@prayer-accessibility-candles-solved.trycloudflare.com:443?security=tls&type=ws&host=prayer-accessibility-candles-solved.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%235
+trojan://DANA@reaching-symbols-refused-frontier.trycloudflare.com:443?security=tls&type=ws&host=reaching-symbols-refused-frontier.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%231
+trojan://DANA@stations-prospective-flowers-trans.trycloudflare.com:443?security=tls&type=ws&host=stations-prospective-flowers-trans.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%232
+trojan://DANA@securities-greene-legislation-disclaimers.trycloudflare.com:443?security=tls&type=ws&host=securities-greene-legislation-disclaimers.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%233
+trojan://DANA@prayer-accessibility-candles-solved.trycloudflare.com:443?security=tls&type=ws&host=prayer-accessibility-candles-solved.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%234
+trojan://DANA@jobs-lottery-cheese-visitors.trycloudflare.com:443?security=tls&type=ws&host=jobs-lottery-cheese-visitors.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%235
