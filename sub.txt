@@ -1,6 +1,6 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-07 02:44:12
-# Active Tunnels: 6
+# Updated: 2026-02-07 05:44:20
+# Active Tunnels: 7
 
 trojan://DANA@inspired-wto-representations-seattle.trycloudflare.com:443?security=tls&type=ws&host=inspired-wto-representations-seattle.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%231
 trojan://DANA@bought-assumption-ebooks-reader.trycloudflare.com:443?security=tls&type=ws&host=bought-assumption-ebooks-reader.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%232
@@ -8,3 +8,4 @@ trojan://DANA@congressional-factors-plot-stamp.trycloudflare.com:443?security=tl
 trojan://DANA@salad-uses-displays-walks.trycloudflare.com:443?security=tls&type=ws&host=salad-uses-displays-walks.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%234
 trojan://DANA@capital-though-athletes-kitty.trycloudflare.com:443?security=tls&type=ws&host=capital-though-athletes-kitty.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%235
 trojan://DANA@cities-assumptions-foto-improvement.trycloudflare.com:443?security=tls&type=ws&host=cities-assumptions-foto-improvement.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%236
+trojan://DANA@fill-comic-bingo-pipe.trycloudflare.com:443?security=tls&type=ws&host=fill-comic-bingo-pipe.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%237
