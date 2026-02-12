@@ -1,9 +1,10 @@
 # 🕊️ زن، زندگی، آزادی
-# Updated: 2026-02-12 04:34:45
-# Active Tunnels: 5
+# Updated: 2026-02-12 07:34:52
+# Active Tunnels: 6
 
 trojan://DANA@henderson-demonstrate-thumb-depth.trycloudflare.com:443?security=tls&type=ws&host=henderson-demonstrate-thumb-depth.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%231
 trojan://DANA@nevada-solely-conditional-projects.trycloudflare.com:443?security=tls&type=ws&host=nevada-solely-conditional-projects.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%232
 trojan://DANA@beginning-wars-lucky-money.trycloudflare.com:443?security=tls&type=ws&host=beginning-wars-lucky-money.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%233
 trojan://DANA@atmosphere-treasures-write-dresses.trycloudflare.com:443?security=tls&type=ws&host=atmosphere-treasures-write-dresses.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GHOST%20%234
 trojan://DANA@breeds-keeping-preferred-irrigation.trycloudflare.com:443?security=tls&type=ws&host=breeds-keeping-preferred-irrigation.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20ALIEN%20%235
+trojan://DANA@biblical-quarterly-dave-agencies.trycloudflare.com:443?security=tls&type=ws&host=biblical-quarterly-dave-agencies.trycloudflare.com&path=%2Fws#%F0%9F%95%8A%EF%B8%8F%20%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20GOD%20%236
